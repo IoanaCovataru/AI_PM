@@ -1,0 +1,1810 @@
+﻿
+@article{ WOS:001569754000001,
+Author = {Hughes, Laurie and Mavi, Reza Kiani and Aghajani, Masoud and
+   Fitzpatrick, Keith and Gunaratnege, Senali Madugoda and Shekarabi, Seyed
+   Ashkan Hosseini and Hughes, Richard and Khanfar, Ahmad and
+   Khatavakhotan, Ahdieh and Mavi, Neda Kiani and Li, Keyao and Mahmoud,
+   Moataz and Malik, Tegwen and Mutasa, Sashah and Nafar, Farzaneh and
+   Yates, Ross and Alahmad, Rasha and Jeon, Il and Dwivedi, Yogesh K.},
+Title = {Impact of artificial intelligence on project management (PM):
+   Multi-expert perspectives on advancing knowledge and driving innovation
+   toward PM2030},
+Journal = {JOURNAL OF INNOVATION \& KNOWLEDGE},
+Year = {2025},
+Volume = {10},
+Number = {5},
+Month = {SEP-OCT},
+Abstract = {The project management profession is undergoing transformative change
+   with the integration of Artificial Intelligence (AI), redefining core
+   methodologies and decision-making processes. As societal expectations
+   rise and technological complexity intensifies, project managers face
+   unprecedented challenges. By 2030, AI-driven predictive insights and
+   modelling capabilities are expected to significantly enhance efficiency,
+   raising critical questions about the evolving role of human project
+   managers. Will AI take the lead in key decisions, or will human
+   attributes such as creativity, ethical judgment, and emotional
+   intelligence remain essential? Framed as PM2030, this study explores
+   future scenarios through expert insights from academia and industry.
+   Using an opinion-based approach, we introduce two conceptual models: the
+   AI-Augmented Ethics-Centric Model and the Predictive Model for AI
+   Adoption and Human Trust. These models offer a forward-looking vision of
+   project management shaped by automation, ethics, and human-AI
+   collaboration. This study contributes to the growing discourse on the
+   human-centric evolution of AI-enabled project management.},
+DOI = {10.1016/j.jik.2025.100772},
+EarlyAccessDate = {SEP 2025},
+Article-Number = {100772},
+ISSN = {2530-7614},
+EISSN = {2444-569X},
+ResearcherID-Numbers = {Dwivedi, Yogesh/A-5362-2008
+   Hosseini Shekarabi, Seyed Ashkan/MIP-7319-2025
+   Malik, Tegwen/JMQ-0671-2023
+   Aghajani, Masoud/LGZ-7902-2024
+   Khaanfar, Ahmad/MYS-2056-2025},
+Unique-ID = {WOS:001569754000001},
+}
+
+@article{ WOS:001595005800002,
+Author = {Almeida, Pedro M. and Fernandes, Gabriela and Santos, Jose M. R. C. A.},
+Title = {Artificial intelligence tools for project management: A knowledge-based
+   perspective},
+Journal = {PROJECT LEADERSHIP AND SOCIETY},
+Year = {2025},
+Volume = {6},
+Month = {DEC},
+Abstract = {The rapid evolution of artificial intelligence is pressing the need to
+   understand how organisations can integrate it into namely project
+   management to enhance performance and outcomes. Through a systematic
+   literature review, this paper explores artificial intelligence's
+   potential use in project management. The thematic analysis of relevant
+   literature identified key project management knowledge areas, such as
+   integration, scope, communication, risk and stakeholder management, were
+   as domains where artificial intelligence holds significant potential.
+   The study further investigates the relationship between these knowledge
+   areas and the most suitable types of artificial intelligence tools, such
+   as generative artificial intelligence, and machine learning algorithms
+   for optimisation and automation, based on the dominant knowledge type
+   each knowledge area requires, namely formal, data-driven, or tacit
+   knowledge. Based on the main findings, the study proposes a conceptual
+   framework for the integration of artificial intelligence tools in
+   project management, offering valuable insights for scholars and
+   practitioners. Moreover, guidelines for future research to accelerate
+   the wide adoption of artificial intelligence in the field are proposed.},
+DOI = {10.1016/j.plas.2025.100196},
+EarlyAccessDate = {OCT 2025},
+Article-Number = {100196},
+EISSN = {2666-7215},
+ResearcherID-Numbers = {de Almeida, Pedro/Q-5244-2019},
+Unique-ID = {WOS:001595005800002},
+}
+
+@inproceedings{ WOS:000796392500100,
+Author = {Shi, Tengfei and Wu, Juan},
+Book-Group-Author = {IEEE},
+Title = {Application of Artificial Intelligence in Water Conservancy Project
+   Management},
+Booktitle = {2021 2ND INTERNATIONAL CONFERENCE ON BIG DATA \& ARTIFICIAL INTELLIGENCE
+   \& SOFTWARE ENGINEERING (ICBASE 2021)},
+Year = {2021},
+Pages = {556-559},
+Note = {2nd International Conference on Big Data and Artificial Intelligence and
+   Software Engineering (ICBASE), Zhuhai, PEOPLES R CHINA, SEP 24-26, 2021},
+Abstract = {With the continuous improvement of the country's economic level, all
+   aspects of the country's construction have achieved world-renowned
+   achievements. Especially in the field of science and technology, major
+   breakthroughs have been made, which are mainly manifested in the use of
+   Internet technology, big data technology and artificial intelligence
+   technology, etc., which have played an important role in the daily life
+   of the people. Artificial intelligence technology is currently the main
+   technological commanding height of competition among countries in the
+   world. This article takes the application of artificial intelligence in
+   water conservancy project management as the topic, and through detailed
+   introduction of its concept, meaning and related methods of application,
+   it will further enhance people's understanding of artificial
+   intelligence technology to achieve the purpose of providing a reference
+   for the people.},
+DOI = {10.1109/ICBASE53849.2021.00109},
+ISBN = {978-1-6654-2709-8},
+ResearcherID-Numbers = {shi, teng/GSE-5879-2022},
+ORCID-Numbers = {Duque, Jorge/0000-0003-4939-6176
+   },
+Unique-ID = {WOS:000796392500100},
+}
+
+@inproceedings{ WOS:A1992BY71S00006,
+Author = {GAARSLEV, A},
+Book-Group-Author = {PROJECT MANAGEMENT INST},
+Title = {APPLICATIONS OF ARTIFICIAL-INTELLIGENCE IN PROJECT-MANAGEMENT},
+Booktitle = {ENVIRONMENT 90S : MANAGING OUR FUTURE: PMI 92 SEMINAR/SYMPOSIUM
+   PROCEEDINGS},
+Year = {1992},
+Pages = {38-43},
+Note = {1992 ANNUAL SEMINAR/SYMP OF THE PROJECT MANAGEMENT INSTITUTE ( PMI 92 )
+   : MANAGING OUR FUTURE, PITTSBURGH, PA, SEP 18-23, 1992},
+Organization = {MILES FDN; PRIMAVERA SYST; UNION SWITCH \& SIGNAL; WELCOM SOFTWARE
+   TECHNOL; DAVY INT; MANGUS CATANZANO; RUST INT; CARNEGIE MELLON UNIV,
+   SOFTWARE ENGN INST},
+Unique-ID = {WOS:A1992BY71S00006},
+}
+
+@article{ WOS:001554445100007,
+Author = {Odeh, Muhammad},
+Title = {The Role of Artificial Intelligence in Project Management},
+Journal = {IEEE ENGINEERING MANAGEMENT REVIEW},
+Year = {2023},
+Volume = {51},
+Number = {4},
+Pages = {20-22},
+Month = {OCT-DEC},
+Abstract = {This article discusses the role of artificial intelligence (AI) in
+   project management. The acceleration of AI adoption being a driver for
+   innovation will force the project management profession to change its
+   approach. Project managers and leaders must meet new and evolving
+   stakeholders' expectations of utilizing new tools and techniques to
+   deliver successful projects. AI must be viewed not only as a project
+   differentiator, but also as the value it adds to the delivered project.},
+DOI = {10.1109/EMR.2023.3309756},
+ISSN = {0360-8581},
+EISSN = {1937-4178},
+ResearcherID-Numbers = {Odeh, Muhammad/KBA-9071-2024
+   },
+ORCID-Numbers = {Odeh, Muhammad/0000-0002-6439-3849},
+Unique-ID = {WOS:001554445100007},
+}
+
+@inproceedings{ WOS:001481122200261,
+Author = {Das, Jiban Krisna and Elegbe, Ifeoluwa and Coffie, Lord and Khadka,
+   Rojeena and Chen, Lei and Ji, Yiming},
+Book-Group-Author = {IEEE},
+Title = {AI-Powered IT Project Management: Analyzing the Effectiveness of
+   Advanced Project Management Tools to Ensure Project Efficiency},
+Booktitle = {SOUTHEASTCON 2025},
+Series = {IEEE SoutheastCon-Proceedings},
+Year = {2025},
+Pages = {1554-1559},
+Note = {2025 SoutheastCon, Concord, NC, MAR 22-30, 2025},
+Organization = {Institute of Electrical and Electronics Engineers Inc; IEEE Computer
+   Society},
+Abstract = {The integration of Artificial Intelligence (AI) into project management
+   has significantly transformed traditional methodologies, particularly
+   within the Information Technology (IT) sector. This study investigates
+   the effectiveness of AI-powered tools, specifically Asana, Jira, and
+   Monday.com to improve project management efficiency through automation,
+   resource optimization, and decision-making processes. Using a systematic
+   literature review and quantitative analysis, the research highlights the
+   capabilities and limitations of these tools in the management of complex
+   IT projects. The study findings reveal that AI-powered platforms
+   facilitate real-time tracking, predictive analytics and dynamic resource
+   allocation, which collectively contribute to reduced project timelines
+   and improved outcomes. However, challenges such as data quality,
+   integration complexities, and the need for skilled personnel remain
+   prevalent. The study was summarized with strategic recommendations for
+   organizations to incorporate automation, leverage predictive analytics,
+   and improve data integrity, thus maximizing the benefits of AI in
+   project management. This research underscores the critical role of AI in
+   modernizing project management practices, which ultimately leads to
+   increased productivity and project success rates in the IT domain.},
+DOI = {10.1109/SOUTHEASTCON56624.2025.10971718},
+ISSN = {1091-0050},
+ISBN = {979-8-3315-0485-4; 979-8-3315-0484-7},
+ResearcherID-Numbers = {Ji, Yiming/LTF-8361-2024},
+Unique-ID = {WOS:001481122200261},
+}
+
+@inproceedings{ WOS:000472790800068,
+Author = {Li, Yiqiao},
+Editor = {Wang, H},
+Title = {The Application of BIM in Artificial Intelligence Management of
+   Construction Engineering Database Project},
+Booktitle = {2019 4TH INTERNATIONAL WORKSHOP ON MATERIALS ENGINEERING AND COMPUTER
+   SCIENCES (IWMECS 2019)},
+Year = {2019},
+Pages = {344-349},
+Note = {4th International Workshop on Materials Engineering and Computer
+   Sciences (IWMECS), Xian, PEOPLES R CHINA, MAR 16-17, 2019},
+Abstract = {In order to perfect the database system of building engineering and meet
+   the demand of data processing and integration, a BIM - based artificial
+   intelligence system integration research method of building engineering
+   database was designed. The role of artificial intelligence integration
+   method in building engineering database system was deeply analyzed,
+   based on which the effectiveness of BIM based artificial intelligence
+   integration method in building engineering database was further
+   discussed. After experimental verification, the bim-based artificial
+   intelligence integration method of building engineering database was
+   more conducive to further improving the efficiency of architectural
+   engineering, effectively reducing the design cycle of architectural
+   engineering and realizing the optimization design of architectural
+   engineering. And its integration efficiency was about 30\% higher than
+   the traditional integration method.},
+DOI = {10.25236/iwmecs.2019.068},
+ISBN = {978-1-912407-40-8},
+ResearcherID-Numbers = {Li, Yiqiao/KIJ-3758-2024},
+Unique-ID = {WOS:000472790800068},
+}
+
+@article{ WOS:000657570700007,
+Author = {Gil Ruiz, Jesus and Martinez Torres, Javier and Gonzalez Crespo, Ruben},
+Title = {The Application of Artificial Intelligence in Project Management
+   Research: A Review},
+Journal = {INTERNATIONAL JOURNAL OF INTERACTIVE MULTIMEDIA AND ARTIFICIAL
+   INTELLIGENCE},
+Year = {2021},
+Volume = {6},
+Number = {6},
+Pages = {54-66},
+Month = {JUN},
+Abstract = {The field of artificial intelligence is currently experiencing
+   relentless growth, with innumerable models emerging in the research and
+   development phases across various fields, including science, finance,
+   and engineering. In this work, the authors review a large number of
+   learning techniques aimed at project management. The analysis is largely
+   focused on hybrid systems, which present computational models of blended
+   learning techniques. At present, these models are at a very early stage
+   and major efforts in terms of development is required within the
+   scientific community. In addition, we provide a classification of all
+   the areas within project management and the learning techniques that are
+   used in each, presenting a brief study of the different artificial
+   intelligence techniques used today and the areas of project management
+   in which agents are being applied. This work should serve as a starting
+   point for researchers who wish to work in the exciting world of
+   artificial intelligence in relation to project leadership and
+   management.},
+DOI = {10.9781/ijimai.2020.12.003},
+ISSN = {1989-1660},
+ResearcherID-Numbers = {Gonzalez Crespo, Ruben/P-8601-2018
+   TORRES, JAVIER/C-9400-2013
+   González Crespo, Rubén/P-8601-2018},
+ORCID-Numbers = {González Crespo, Rubén/0000-0001-5541-6319},
+Unique-ID = {WOS:000657570700007},
+}
+
+@article{ WOS:001302400200001,
+Author = {Georgiev, Stoyan and Polychronakis, Yiannis and Sapountzis, Stylianos
+   and Polychronakis, Nikostratos},
+Title = {The role of artificial intelligence in project management: a supply
+   chain perspective},
+Journal = {SUPPLY CHAIN FORUM},
+Year = {2024},
+Month = {2024 AUG 30},
+Abstract = {Artificial intelligence continuously overtakes an increased number of
+   functions within numerous business fields. Consistently, its appliance
+   in supply chain-related project management is also constantly rising.
+   The purpose of this paper is to explore the role of artificial
+   intelligent (AI) technologies in project management (PM) undertaken in
+   supply chain (SC) contexts. Moreover, a focus is set on explaining the
+   relationship between supply chain project management and AI, with
+   emphasis on the appliance of AI in PM and the level of activities and
+   operations that could be performed by the algorithms, AI-related
+   integration challenges and risks and future anticipation of AI.},
+DOI = {10.1080/16258312.2024.2384823},
+EarlyAccessDate = {AUG 2024},
+ISSN = {1625-8312},
+EISSN = {1624-6039},
+ORCID-Numbers = {Sapountzis, Stylianos/0000-0002-2198-5270
+   Polychronakis, Yiannis/0000-0002-5714-3219
+   Georgiev, Stoyan/0009-0009-1665-765X},
+Unique-ID = {WOS:001302400200001},
+}
+
+@article{ WOS:001600003900016,
+Author = {Uysal, Murat Pasa and Akturk, Ersin},
+Title = {A Systemic Approach to Machine Learning Project Management},
+Journal = {IEEE ENGINEERING MANAGEMENT REVIEW},
+Year = {2025},
+Volume = {53},
+Number = {5},
+Pages = {87-108},
+Month = {OCT},
+Abstract = {Despite their increasing popularity, artificial intelligence (AI) and
+   machine learning (ML) projects often fail to deliver expected outcomes,
+   frequently ending prematurely or not being deployed. Beyond data and
+   model requirements, theseprojects necessitate cross-domain performance,
+   business analysis, effective stakeholder and team management, risk and
+   quality management, and a tailored development approach. These factors
+   underline the need for a systemic project management (PM) approach that
+   addresses the interconnections among business, organizational, team, and
+   PM factors, rather than focusing on isolated achievements of AI and ML.
+   Current PM methods such as Cross-Industry Standard Process for Data
+   Mining, Team Data Science Process, Scrum, and Kanban may not adequately
+   meet these challenges. Therefore, a systemic PM framework is essential
+   for artificial intelligence and machine learningproject success,
+   particularly in critical areas such as healthcare. This article argues
+   for a change toward a principle-based, holistic, and systemic PM
+   approach tailored to the performance domains of artificial intelligence
+   and machine learningprojects. It explores the adoption of the Project
+   Management Body of Knowledge (PMBOK V7) for an ML project at Baskent
+   University Hospital Ankara. By combining systems engineering and Soft
+   Systems Methodology with a survey on performance domains, we enhance
+   PMBOK V7's applicability, proposing solutions that include conceptual
+   and process models. Findings indicate that PMBOK V7 meets the necessary
+   project requirements but needs adaptations for ML processes.},
+DOI = {10.1109/EMR.2024.3503677},
+ISSN = {0360-8581},
+EISSN = {1937-4178},
+ResearcherID-Numbers = {Uysal, Murat Pasa/GQQ-0222-2022},
+Unique-ID = {WOS:001600003900016},
+}
+
+@article{ WOS:001189995400001,
+Author = {Choquehuanca-Sanchez, Ana Maria and Kuzimoto-Saldana, Keiko Donna and
+   Munoz-Huanca, Jhonatan Ruben and Requena-Manrique, Dennis Gerardo and
+   Trejo-Lozano, Rodrigo Antony and Vasquez-Martinez, Josemaria Isimer and
+   Zenozain-Garay, Edy Guillermo and Marin-Rodriguez, William Joel},
+Title = {Emerging technologies in information systems project management},
+Journal = {EAI ENDORSED TRANSACTIONS ON SCALABLE INFORMATION SYSTEMS},
+Year = {2024},
+Volume = {11},
+Number = {4},
+Pages = {10},
+Abstract = {The article discusses emerging technologies in information systems
+   project management. Project management is a modern discipline that began
+   to take shape from 1900 and has evolved and adapted to the needs of
+   society and business. Emerging technologies such as artificial
+   intelligence, blockchain, augmented and virtual reality, and process
+   automation are transforming the way information systems projects are
+   managed. These technologies can be used to analyze large amounts of
+   data, ensure data integrity and security, visualize a project's design
+   and perform virtual testing, and automate tasks to reduce project time
+   and cost. It is important for companies to be aware of these
+   technologies and use them effectively to improve the efficiency and
+   profitability of their projects.},
+DOI = {10.4108/eetsis.4632},
+EarlyAccessDate = {MAR 2024},
+ISSN = {2032-9407},
+ResearcherID-Numbers = {MARIN ROIGUEZ, WILLIAM JOEL/AAY-5625-2021
+   Marin-Rodriguez, William/AAY-5625-2021
+   },
+ORCID-Numbers = {MARIN ROIGUEZ, WILLIAM JOEL/0000-0002-0861-9663
+   Trejo Lozano, Roigo Antony/0009-0007-8819-2279},
+Unique-ID = {WOS:001189995400001},
+}
+
+@inproceedings{ WOS:000557879900011,
+Author = {Hoa Khanh Dam and Truyen Tran and Grundy, John and Ghose, Aditya and
+   Kamei, Yasutaka},
+Book-Group-Author = {Assoc Comp Machinery},
+Title = {Towards Effective AI-powered Agile Project Management},
+Booktitle = {2019 IEEE/ACM 41ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: NEW
+   IDEAS AND EMERGING RESULTS (ICSE-NIER 2019)},
+Year = {2019},
+Pages = {41-44},
+Note = {41st IEEE/ACM International Conference on Software Engineering - New
+   Ideas and Emerging Results (ICSE-NIER), Montreal, CANADA, MAY 25-31,
+   2019},
+Organization = {IEEE; Assoc Comp Machinery; IEEE CS; IEEE CS Tech Comm Software Engn;
+   Assoc Comp Machinery Special Interest Grp Software Engn; Natl Sci Fdn;
+   Facebook; IBM; Huawei; Monash Univ; Univ Waterloo; Ecole Technologie
+   Superieure; Amazon Web Serv; Tourisme Montreal; Google; Microsoft Res;
+   Blackberry; Fujitsu; Univ Calif; ING; Natl Sci \& Engn Res Council
+   Canada; Prompt},
+Abstract = {The rise of Artificial intelligence (AI) has the potential to
+   significantly transform the practice of project management. Project
+   management has a large socio-technical element with many uncertainties
+   arising from variability in human aspects, e.g. customers' needs,
+   developers' performance and team dynamics. AI can assist project
+   managers and team members by automating repetitive, high-volume tasks to
+   enable project analytics for estimation and risk prediction, providing
+   actionable recommendations, and even making decisions. AI is potentially
+   a game changer for project management in helping to accelerate
+   productivity and increase project success rates. In this paper, we
+   propose a framework where AI technologies can be leveraged to offer
+   support for managing agile projects, which have become increasingly
+   popular in the industry.},
+DOI = {10.1109/ICSE-NIER.2019.00019},
+ISBN = {978-1-7281-1758-4},
+ResearcherID-Numbers = {Grundy, John/I-6681-2012
+   Dam, Hoa Khanh/C-6058-2014
+   },
+ORCID-Numbers = {Grundy, John/0000-0003-4928-7076
+   Tran, Truyen/0000-0001-6531-8907},
+Unique-ID = {WOS:000557879900011},
+}
+
+@inproceedings{ WOS:000763773400074,
+Author = {Bodea, Constanta-Nicoleta and Mitea, Cosmin and Stanciu, Oana},
+Editor = {Dima, AM},
+Title = {Artificial Intelligence Adoption in Project Management: Main Drivers,
+   Barriers and Estimated Impact},
+Booktitle = {INNOVATIVE MODELS TO REVIVE THE GLOBAL ECONOMY},
+Series = {International Conference on Economics and Social Sciences},
+Year = {2020},
+Pages = {758-767},
+Note = {3rd International Conference on Economics and Social Sciences, ELECTR
+   NETWORK, OCT 15-16, 2020},
+Organization = {Bucharest Univ Econ Studies},
+Abstract = {Artificial intelligence (AI) is reshaping the business world, being
+   considered one of the most relevant disrupting factors in our days, due
+   to its major impact on the workplace conditions. Several academic and
+   practical studies were undertaken in order to identify the main drivers,
+   barriers and impact adoption of AI technologies in business. But the
+   adoption of AI in management, in general and, more specific, in project
+   management (PM) processes is still not yet well covered by the actual
+   research.
+   The paper aims to identify the characteristics of Artificial
+   Intelligence adoption in project management, based on the theoretical
+   frameworks related to the technology adoption. The authors also present
+   findings of a global survey conducted by IPMA and PwC Romania during
+   March August 2020. By comparing the main findings of the global survey
+   with the conclusions derived from the analysis of the theoretical
+   frameworks, the authors discuss about the relevance of using the
+   technology adoption frameworks in order to analyse the adoption of
+   disruptive technologies.},
+DOI = {10.2478/9788366675162-075},
+ISSN = {2704-6524},
+ISBN = {978-83-958150-7-2},
+ResearcherID-Numbers = {Bodea, Constanta-Nicoleta/GXV-2034-2022
+   Bodea, Constanta Nicoleta/GXV-2034-2022},
+ORCID-Numbers = {Bodea, Constanta Nicoleta/0000-0001-5542-8133},
+Unique-ID = {WOS:000763773400074},
+}
+
+@article{ WOS:001596376400001,
+Author = {Ingason, Helgi Thor and Aaltonen, Kirsi and Asmundarson, Atli Snaer and
+   Fridgeirsson, Thordur Vikingur and Huemann, Daniel and Huemann, Martina
+   and Kujala, Jaakko and Lampela, Hannele and Mancini, Mauro and Mariani,
+   Costanza and Ringhofer, Claudia},
+Title = {Personalised learning in project management education: Insights from an
+   artificial intelligence-driven chatbot},
+Journal = {PROJECT LEADERSHIP AND SOCIETY},
+Year = {2025},
+Volume = {6},
+Month = {DEC},
+Abstract = {The increasing complexity of project-based work in contemporary
+   organisations calls for a transformation in how project management is
+   taught. Traditional teaching approaches struggle to support
+   self-directed, context-sensitive, and motivationally engaging learning
+   experiences-skills that are critical for preparing future project
+   leaders. In this context, there is growing interest in the potential of
+   artificial intelligence-powered tools to enhance the quality and
+   adaptability of educating future project managers. This paper explores
+   the application of artificial intelligence-driven chatbots in
+   university-level project management education through the lens of the
+   two-year international project ``ChatLearn{''} conducted across four
+   European countries. Using an action design research methodology, the
+   project iteratively developed and tested a chatbot in three versions,
+   progressively integrating feedback from students and educators. The
+   study suggests that artificial intelligence-based chatbots hold
+   significant promise for supporting personalised learning journeys and
+   increasing student motivation; however, their integration requires
+   careful design, ongoing dialogue within the teaching community, and a
+   strong alignment with pedagogical objectives.},
+DOI = {10.1016/j.plas.2025.100193},
+EarlyAccessDate = {OCT 2025},
+Article-Number = {100193},
+EISSN = {2666-7215},
+ResearcherID-Numbers = {Ingason, Helgi/S-2567-2018},
+Unique-ID = {WOS:001596376400001},
+}
+
+@article{ WOS:001139705400001,
+Author = {Mueller, Ralf and Locatelli, Giorgio and Holzmann, Vered and Nilsson,
+   Marly and Sagay, Temisan},
+Title = {Artificial Intelligence and Project Management: Empirical Overview,
+   State of the Art, and Guidelines for Future Research},
+Journal = {PROJECT MANAGEMENT JOURNAL},
+Year = {2024},
+Volume = {55},
+Number = {1},
+Pages = {9-15},
+Month = {FEB},
+Abstract = {Desk rejections of artificial intelligence (AI)-related submissions to
+   the Project Management Journal (R) (PMJ) are high. This article provides
+   an overview and state-of-the-art snapshot on academic and practitioner
+   work to derive at potential future research topics and guidelines on the
+   execution and reporting of AI-related studies in project management.},
+DOI = {10.1177/87569728231225198},
+EarlyAccessDate = {JAN 2024},
+ISSN = {8756-9728},
+EISSN = {1938-9507},
+ResearcherID-Numbers = {Holzmann, Vered/AFJ-9487-2022
+   Locatelli, Giorgio/AAG-8058-2020
+   Müller, Ralf/Y-3517-2018},
+ORCID-Numbers = {Locatelli, Giorgio/0000-0001-9986-2249
+   Holzmann, Vered/0000-0001-7992-1782
+   Müller, Ralf/0000-0001-5737-8117},
+Unique-ID = {WOS:001139705400001},
+}
+
+@article{ WOS:001485504900001,
+Author = {Bachari, Mohammad Senisel and Solouki, Ali and Ghanbari, Hossein},
+Title = {Exploring the application of artificial intelligence in project
+   management: A systematic literature review},
+Journal = {JOURNAL OF PROJECT MANAGEMENT},
+Year = {2025},
+Volume = {10},
+Number = {3},
+Pages = {451-468},
+Abstract = {Projects play a crucial role in the success and development of
+   industries, organizations and businesses, hence making project
+   management an important practice which needs to be up to date with new
+   trends and modern technology such as artificial intelligence (AI). With
+   the advent of artificial intelligence there have been a number of
+   studies aimed to design and introduce new ways and means of utilizing
+   this phenomenon into project management. This research aims to find AI
+   methods, tools, approaches, models and frameworks for each of the
+   project management knowledge domains introduced by PMboK. The
+   methodology followed the PRISMA guidelines for systematic literature
+   reviews to collect, screen and analyze the literature to find relevant
+   studies. The findings presented bibliographic data on the topic and
+   current trends, frequently used AI methods and project management
+   techniques and tools which benefit from these AI methods under each
+   project management domain.},
+DOI = {10.5267/j.jpm.2025.5.002},
+EarlyAccessDate = {MAY 2025},
+ISSN = {2371-8366},
+EISSN = {2371-8374},
+ResearcherID-Numbers = {ghanbari, Heshmatollah/C-6408-2018
+   },
+ORCID-Numbers = {Ghanbari, Hossein/0000-0002-7815-155X},
+Unique-ID = {WOS:001485504900001},
+}
+
+@inproceedings{ WOS:000848150600017,
+Author = {Auth, Gunnar and Joehnk, Jan and Wiecha, Dennis A.},
+Editor = {Almeida, JPA and Guizzardi, G and Montali, M and Proper, HA},
+Title = {A Conceptual Framework for Applying Artificial Intelligence in Project
+   Management},
+Booktitle = {2021 IEEE 23RD CONFERENCE ON BUSINESS INFORMATICS, CBI 2021, VOL 1},
+Series = {Conference on Business Informatics},
+Year = {2021},
+Pages = {161-170},
+Note = {IEEE 23rd Conference on Business Informatics (CBI), ELECTR NETWORK, SEP
+   01-03, 2021},
+Organization = {IEEE; IEEE Comp Soc},
+Abstract = {Due to their characteristic novelty and uniqueness, projects do not
+   appear as a promising application domain for the use of artificial
+   intelligence (AI) at first glance. Since most AI methods, especially
+   machine learning, require comprehensive sets of historical data, the
+   benefits of applying AI to project management (PM) seem to be hardly
+   worthwhile. Based on existing solutions in theory and practice as well
+   as the results of an explorative interview study in Germany, this
+   article shows that AI can nevertheless make a valuable contribution to
+   improving PM. For this purpose, we present a framework that defines the
+   fundamental concepts for applying AI to PM comprising both the
+   requirements of AI for the application domain PM as well as the
+   requirements of PM for the solution domain AI. Considering the two
+   domains' mutual requirements, the framework structures the potential for
+   the application of AI in PM and thus supports a targeted solution design
+   for business.},
+DOI = {10.1109/CBI52690.2021.00027},
+ISSN = {2378-1963},
+ISBN = {978-1-6654-2069-3},
+ORCID-Numbers = {Auth, Gunnar/0000-0002-3013-2739},
+Unique-ID = {WOS:000848150600017},
+}
+
+@article{ WOS:000583921100001,
+Author = {Li, Zhanru and Mo, Tingting},
+Title = {Early warning of engineering project knowledge management risk based on
+   artificial intelligence},
+Journal = {KNOWLEDGE MANAGEMENT RESEARCH \& PRACTICE},
+Year = {2024},
+Volume = {22},
+Number = {6},
+Month = {NOV 1},
+Abstract = {Based on the analysis of the characteristics of risk factors in
+   knowledge management of engineering projects, this paper uses artificial
+   intelligence theory to calculate the objective weight of risk
+   indicators, and conducts risk analysis to provide early warning of
+   risks. By studying the riskof knowledge management in engineering
+   projects, it helps project managers to take correct and effective
+   measures to prevent and respond to various risks that may occur in
+   engineering projects, and minimise the intellectual property loss that
+   the risks may cause. At the same time, summing up the relevant
+   experience and summarising the coping strategies of the risk factors
+   often encountered in engineering projects. It has practical guiding
+   significance for the subsequent risk management activities of similar
+   projects.},
+DOI = {10.1080/14778238.2020.1834885},
+EarlyAccessDate = {OCT 2020},
+ISSN = {1477-8238},
+EISSN = {1477-8246},
+Unique-ID = {WOS:000583921100001},
+}
+
+@article{ WOS:001431644000001,
+Author = {Vergara, Diego and del Bosque, Antonio and Lampropoulos, Georgios and
+   Fernandez-Arias, Pablo},
+Title = {Trends and Applications of Artificial Intelligence in Project Management},
+Journal = {ELECTRONICS},
+Year = {2025},
+Volume = {14},
+Number = {4},
+Month = {FEB},
+Abstract = {The integration of artificial intelligence (AI) into project management
+   (PM) transforms how projects are planned, executed, and monitored. The
+   main objective of this study is to provide a comprehensive bibliometric
+   analysis exploring trends, thematic areas, and future directions in AI
+   applications in project management by examining publications from the
+   last decade. This research uncovers dominant themes such as machine
+   learning, decision making, information management, and resource
+   optimization. The findings highlight the growing use of AI to enhance
+   efficiency, accuracy, and innovation in PM processes, with recent trends
+   favoring data-driven approaches and emerging technologies like
+   generative AI. Geographically, China, India, and the United States lead
+   in publications, while the United Kingdom and Australia show a high
+   citation impact. The research landscape, including AI-enhanced
+   decision-making frameworks and cost analysis, demonstrates the diversity
+   of AI applications in PM. An increased interest in the use of generative
+   AI and its impact on PM and project managers was observed. This analysis
+   contributes to the field by offering a structured overview of research
+   trends, defining the challenges and opportunities for integrating AI
+   into project management practices and offering perspectives on emerging
+   technologies.},
+DOI = {10.3390/electronics14040800},
+Article-Number = {800},
+ISSN = {2079-9292},
+ResearcherID-Numbers = {Vergara, Diego/J-4827-2012
+   Fernández-Arias, Pablo/AAA-6910-2021
+   del Bosque García, Antonio/AAN-8765-2021},
+ORCID-Numbers = {Vergara, Diego/0000-0003-3710-4818
+   Lampropoulos, Georgios/0000-0002-5719-2125
+   Fernández-Arias, Pablo/0000-0002-0502-5800
+   del Bosque, Antonio/0000-0002-8301-2159
+   },
+Unique-ID = {WOS:001431644000001},
+}
+
+@inproceedings{ WOS:001261691200017,
+Author = {Sarafanov, Egor and Valilai, Omid Fatahi and Wicaksono, Hendro},
+Editor = {Arai, K},
+Title = {Causal Analysis of Artificial Intelligence Adoption in Project
+   Management},
+Booktitle = {INTELLIGENT SYSTEMS AND APPLICATIONS, VOL 1, INTELLISYS 2023},
+Series = {Lecture Notes in Networks and Systems},
+Year = {2024},
+Volume = {822},
+Pages = {245-264},
+Note = {Intelligent Systems Conference (IntelliSys), Amsterdam, NETHERLANDS, SEP
+   07-08, 2023},
+Abstract = {Artificial intelligence (AI) technologies have great potential to
+   improve decision-making and automation processes in various sectors,
+   including project management. AI technologies could significantly
+   contribute to overcoming the complexity of project management through
+   process automation, cognitive insight, and engagement. However, the
+   adoption of AI technologies still faces many challenges due to
+   technical, human resource-related, organizational, and legal issues. Our
+   research identified the potential factors that lead to the willingness
+   of people and organizations to adopt AI technologies in project
+   management. This paper proposes a causal model describing multivariate
+   causal relationships between the driving factors and the willingness to
+   adopt AI. The causal model is a set of hypotheses evaluated through a
+   survey and causal analysis using the structural equation modeling (SEM)
+   technique. The analysis focused on six factors influencing the
+   willingness to adopt AI in project management, i.e., performance
+   effectiveness, price, previous experience, feedback, complexity, and
+   complementary technologies. Our research found that the perception of
+   the high effectiveness of AI technologies leading to higher profits and
+   overall the state of the project is the main factor influencing the
+   willingness to adopt AI technologies in project management.},
+DOI = {10.1007/978-3-031-47721-8\_17},
+ISSN = {2367-3370},
+EISSN = {2367-3389},
+ISBN = {978-3-031-47720-1; 978-3-031-47721-8},
+ResearcherID-Numbers = {Fatahi Valilai, Omid/E-6253-2018
+   Wicaksono, Hendro/HZJ-5111-2023},
+Unique-ID = {WOS:001261691200017},
+}
+
+@article{ WOS:001545634200002,
+Author = {Serikbay, Diana and Kozhakhmetova, Assel and Jumasseitova, Assel and
+   Mukashev, Yerzhan},
+Title = {When Machines Manage: How AI Is Reshaping Project Management Practices},
+Journal = {INTERNATIONAL JOURNAL OF ASIAN BUSINESS AND INFORMATION MANAGEMENT},
+Year = {2025},
+Volume = {16},
+Number = {1},
+Abstract = {The study aims to investigate the adoption and impact of artificial
+   intelligence (AI) in project management (PM) in Kazakhstan. One hundred
+   fifty-nine experts from the academic and industrial sectors provided the
+   survey data. Statistical methods, social network analysis, and analysis
+   of variance were used to evaluate the significance of changes in the
+   impact of AI, using a Tukey post-hoc test. The study results showed
+   differences in the degree of AI adoption across eight PDs and the need
+   for a customized approach to maximize the benefits of AI in PM. The
+   research found that different PDs see different effects of AI on project
+   success. Low technology readiness, financial constraints, and
+   insufficient experience were the main barriers to effective AI adoption.
+   This study offers practical recommendations for project-oriented
+   companies implementing AI, thereby filling a gap in the literature by
+   proposing PM as a new application area for dynamic models of
+   human-machine interaction. Future studies should expand the geographic
+   sample and add other factors influencing AI applications.},
+DOI = {10.4018/IJABIM.384773},
+Article-Number = {384773},
+ISSN = {1947-9638},
+EISSN = {1947-9646},
+ORCID-Numbers = {Serikbay, Diana/0009-0000-4821-7733
+   Mukashev, Yerzhan/0000-0003-1003-176X},
+Unique-ID = {WOS:001545634200002},
+}
+
+@inproceedings{ WOS:001466337600032,
+Author = {Tarawneh, Monther and AbdAlwahed, Huda and AlZyoud, Faisal},
+Editor = {AlSadoon, A and Daimi, K},
+Title = {Innovating Project Management: AI Applications for Success Prediction
+   and Resource Optimization},
+Booktitle = {PROCEEDINGS OF THE SECOND INTERNATIONAL CONFERENCE ON ADVANCES IN
+   COMPUTING RESEARCH, ACR 2024},
+Series = {Lecture Notes in Networks and Systems},
+Year = {2024},
+Volume = {956},
+Pages = {382-391},
+Note = {2nd International Conference on Advances in Computing Research-ACR,
+   Madrid, SPAIN, JUN 03-05, 2024},
+Organization = {IE University; University of Detroit Mercy; Flexsis Surgical Ltd},
+Abstract = {The revolution of Artificial Intelligence (AI) has made transformative
+   changes in all industries. The field of software engineering has great
+   benefit from AI by Automat all process. Applying Artificial intelligence
+   (AI) technologies, particularly Deep Neural Network (DNN) models, to
+   project management will transform traditional methodologies to new ways.
+   This work investigates how AI can be used within project management to
+   better allocate resources, estimate time, and predict costs. Data from
+   many recourses used to improve accuracy in project planning, refine how
+   risks are managed, and develop new methods. Data includes real projects
+   portfolio, open-source data, and simulated data. The integration of AI
+   in project management examines project success and client satisfaction.
+   This work shows 99\% accuracy for learning and 78\% for testing of
+   predicting project success and highlights the need to constantly update
+   methods to effectively use the big potential changes AI can bring to
+   project management.},
+DOI = {10.1007/978-3-031-56950-0\_32},
+ISSN = {2367-3370},
+EISSN = {2367-3389},
+ISBN = {978-3-031-56949-4; 978-3-031-56950-0},
+ResearcherID-Numbers = {Tarawneh, Monther/Q-8808-2016},
+Unique-ID = {WOS:001466337600032},
+}
+
+@inproceedings{ WOS:001481376200010,
+Author = {Senarath, Vishmi and Berntzen, Lasse},
+Editor = {Themistocleous, M and Bakas, N and Kokosalakis, G and Papadaki, M},
+Title = {Artificial Intelligence Use and Potential within Project Management},
+Booktitle = {INFORMATION SYSTEMS, EMCIS 2024, PT I},
+Series = {Lecture Notes in Business Information Processing},
+Year = {2025},
+Volume = {535},
+Pages = {127-141},
+Note = {21st European, Mediterranean, and Middle Eastern Conference on
+   Information Systems, Athens, GREECE, SEP 02-03, 2024},
+Abstract = {This study explores the impact of Artificial Intelligence (AI) on
+   project management in Norway using a mixed-methods approach. Initially,
+   a questionnaire was answered by 84 respondents, followed by in-depth
+   interviews with seven experienced project managers. The primary
+   objective was to assess the extent of AI integration in project
+   management practices and its perceived benefits. The findings reveal
+   that a significant number of project managers in Norway have already
+   incorporated AI tools into their workflows. These tools are primarily
+   utilized for task automation, predictive analytics, and resource
+   allocation. Project managers reported that AI significantly enhances
+   efficiency by automating routine tasks, thereby allowing them to focus
+   on more strategic activities.
+   Additionally, AI tools provide valuable insights through data analysis,
+   enabling more informed decision-making and greater project flexibility.
+   Despite the overall positive reception, some respondents highlighted
+   challenges such as the steep learning curve associated with new AI
+   technologies and concerns over data security. These challenges, however,
+   are manageable and can be addressed with proper training and robust data
+   protection measures. The consensus is clear - AI has the potential to
+   transform project management, making it more dynamic and adaptable to
+   changing project demands. This study underscores the growing importance
+   of AI in the project management domain in Norway. It suggests that
+   ongoing advancements in AI technology will likely lead to even greater
+   integration and reliance on these tools in the future. Further research
+   is recommended to explore long-term impacts and the development of best
+   practices for AI adoption in project management.},
+DOI = {10.1007/978-3-031-81322-1\_10},
+ISSN = {1865-1348},
+EISSN = {1865-1356},
+ISBN = {978-3-031-81321-4; 978-3-031-81322-1},
+ResearcherID-Numbers = {Berntzen, Lasse/AAM-6797-2021},
+ORCID-Numbers = {Berntzen, Lasse/0000-0002-8399-5474
+   },
+Unique-ID = {WOS:001481376200010},
+}
+
+@article{ WOS:001481414100005,
+Author = {Mouly, Rajasekhara and Serikbay, Diana},
+Title = {Artificial Intelligence (AI) Adoption in HR Management : Analyzing
+   Challenges in Kazakhstan Corporate Projects},
+Journal = {INTERNATIONAL JOURNAL OF ASIAN BUSINESS AND INFORMATION MANAGEMENT},
+Year = {2025},
+Volume = {16},
+Number = {1},
+Abstract = {The research seeks to explore and analyze the various challenges
+   associated with adopting artificial intelligence (AI) within the
+   functional domains of human resource management, with a particular focus
+   on its implementation in corporate sector projects across Kazakhstan. A
+   self-administered three-part questionnaire collected data from human
+   resources (HR) professionals in Kazakhstan. Data were processed using
+   Microsoft Excel and R Studio R Language. McDonald's omega and Bartlett's
+   tests ensured the questionnaire's reliability and validity for total
+   respondents. A quantitative approach utilizing structural equation
+   modeling with SmartPLS 3.0 was applied to analyze and assess complex
+   theoretical relationships among variables in the selected hypotheses.
+   The significant findings are that challenges like cultural resistance,
+   investment costs, and skill gaps substantially influenced the
+   implementation of AI in the HR domain of Kazakhstan companies, except
+   for the integration of other systems of the organization. The study was
+   limited to four HR sectors in Kazakhstan, with inconsistent data
+   collection.},
+DOI = {10.4018/IJABIM.376012},
+Article-Number = {376012},
+ISSN = {1947-9638},
+EISSN = {1947-9646},
+ResearcherID-Numbers = {POTLURI, RAJASEKHARA MOULY/Q-7181-2017},
+ORCID-Numbers = {Serikbay, Diana/0009-0000-4821-7733
+   POTLURI, RAJASEKHARA MOULY/0000-0002-6935-1373},
+Unique-ID = {WOS:001481414100005},
+}
+
+@article{ WOS:001221732800008,
+Author = {Velezmoro-Abanto, Lesly and Cuba-Lagos, Rocko and Taico-Valverde, Bryan
+   and Iparraguirre-Villanueva, Orlando and Cabanillas-Carbonell, Michael},
+Title = {Lean Construction Strategies Supported by Artificial Intelligence
+   Techniques for Construction Project Management-A Review},
+Journal = {INTERNATIONAL JOURNAL OF ONLINE AND BIOMEDICAL ENGINEERING},
+Year = {2024},
+Volume = {20},
+Number = {3},
+Abstract = {This paper analyzes the application of artificial intelligence (AI)
+   techniques in lean construction (LC) and their potential to enhance
+   project management (PM) for improved cost and schedule efficiency. The
+   PRISMA methodology is used to select relevant articles in four steps.
+   Furthermore, a bibliometric analysis of keywords and their occurrences
+   is conducted. The study emphasizes the different methods of utilizing
+   lean tools and AI techniques to attain optimal results in the
+   construction industry. By combining a variety of tools and techniques,
+   it is possible to create an environment that fosters improved project
+   outcomes while minimizing risks and inefficiencies. According to the
+   articles reviewed, the LC methodology and its tools are becoming
+   increasingly relevant in general practice (GP). Machine learning (ML)
+   techniques, particularly artificial neural networks (ANN), have been
+   extensively researched as a tool to enhance construction projects by
+   minimizing delays, fostering collaboration, cutting costs, saving time,
+   and boosting productivity. Combining LC with ML can enhance
+   profitability and align with lean principles, leading to successful
+   outcomes for construction projects.},
+DOI = {10.3991/ijoe.v20i03.46769},
+EISSN = {2626-8493},
+ResearcherID-Numbers = {Cabanillas-Carbonell, Michael/HJB-2828-2022
+   Iparraguirre, Orlando/AGP-1255-2022
+   Cabanillas Carbonell, Michael Alejano/HJB-2828-2022},
+ORCID-Numbers = {Taico Valverde, Bryan Alfredo/0000-0001-6314-4210
+   Iparraguirre Villanueva, Orlando C/0000-0001-8185-2034
+   Velezmoro Abanto, Lesly Noelia/0000-0002-6333-5137
+   Cabanillas Carbonell, Michael Alejano/0000-0001-9675-0970},
+Unique-ID = {WOS:001221732800008},
+}
+
+@article{ WOS:001137912900001,
+Author = {Mueller, Ralf},
+Title = {EXPLORING THE FUTURE OF RESEARCH IN PROJECT MANAGEMENT},
+Journal = {REVISTA DE GESTAO E PROJETOS},
+Year = {2023},
+Volume = {14},
+Number = {3, SI},
+Pages = {14-26},
+Month = {SEP-DEC},
+Abstract = {Research in project management provides an understanding of working
+   practices, organizational, technological, and other phenomena in the
+   realm of projects. The present article addresses the expected
+   development in research topics over the short to mid-range period. It
+   starts with a look into recent predictions, then adds the currently
+   proposed research topics of the leading academic journals in project
+   management, and processes this into five potential streams of future
+   research in project management. These streams cover research in the
+   realm of Grand Challenges, the human side of project management, the
+   general understanding of (megaprojects) project management, advanced
+   tools and techniques (such as Artificial Intelligence), as well as
+   anticipated new research methods and their implications for the
+   relevance of research findings for practitioners. Practitioners will
+   gain insight into potential topics they might be interested in and want
+   to read more about in the future. At the same time, academics gain from
+   various potential research topics and directions.},
+DOI = {10.5585/gep.v14i3.25027},
+ISSN = {2236-0972},
+ResearcherID-Numbers = {Müller, Ralf/Y-3517-2018},
+ORCID-Numbers = {Müller, Ralf/0000-0001-5737-8117},
+Unique-ID = {WOS:001137912900001},
+}
+
+@article{ WOS:A1995RA93300015,
+Author = {KHOROSHEVSKIY, VF},
+Title = {PROJECT-MANAGEMENT IN AN INTELLIGENT SYSTEM - PIES WORKBENCH},
+Journal = {JOURNAL OF COMPUTER AND SYSTEMS SCIENCES INTERNATIONAL},
+Year = {1995},
+Volume = {33},
+Number = {4},
+Pages = {147-159},
+Month = {JUL-AUG},
+Abstract = {Design support for intelligent application systems is discussed. An
+   architecture for the PiES WorkBench intelligent CASE toolkit is
+   proposed, and its functional capabilities are enumerated. The creation
+   of projects in this system and management within the context of a
+   project based on knowledge of expert systems design technology are
+   discussed.},
+ISSN = {1064-2307},
+ORCID-Numbers = {Khoroshevsky, 0000-0003-2567-8005/0000-0002-0828-7128},
+Unique-ID = {WOS:A1995RA93300015},
+}
+
+@article{ WOS:001302665900001,
+Author = {Mariani, Costanza and Aaltonen, Kirsi and Ingason, Helgi Por and
+   Mancini, Mauro and Huemann, Martina},
+Title = {The future of learning: How artificial intelligence and other new
+   technologies revolutionize project management education \& training},
+Journal = {PROJECT LEADERSHIP AND SOCIETY},
+Year = {2024},
+Volume = {5},
+Month = {DEC},
+DOI = {10.1016/j.plas.2024.100147},
+EarlyAccessDate = {AUG 2024},
+Article-Number = {100147},
+EISSN = {2666-7215},
+Unique-ID = {WOS:001302665900001},
+}
+
+@article{ WOS:000443666900011,
+Author = {Aicardi, Christine and Fothergill, B. Tyr and Rainey, Stephen and Stahl,
+   Bernd Carsten and Harris, Emma},
+Title = {Accompanying technology development in the Human Brain Project: From
+   foresight to ethics management},
+Journal = {FUTURES},
+Year = {2018},
+Volume = {102},
+Number = {SI},
+Pages = {114-124},
+Month = {SEP},
+Abstract = {This paper addresses the question of managing the existential risk
+   potential of general Artificial Intelligence (AI), as well as the more
+   near-term yet hazardous and disruptive implications of specialised AI,
+   from the perspective of a particular research project that could make a
+   significant contribution to the development of Artificial Intelligence
+   (AI): the Human Brain Project (HBP), a ten-year Future and Emerging
+   Technologies Flagship of the European Commission. The HBP aims to create
+   a digital research infrastructure for brain science, cognitive
+   neuroscience, and brain-inspired computing. This paper builds on work
+   undertaken in the HBP's Ethics and Society subproject (SP12).
+   Collaborators from two activities in SP12, Foresight and Researcher
+   Awareness on the one hand, and Ethics Management on the other, use the
+   case of machine intelligence to illustrate key aspects of the dynamic
+   processes through which questions of ethics and society, including
+   existential risks, are approached in the organisational context of the
+   HBP. The overall aim of the paper is to provide practice-based evidence,
+   enriched by self-reflexive assessment of the approach used and its
+   limitations, for guiding policy makers and communities who are, and will
+   be, engaging with such questions.},
+DOI = {10.1016/j.futures.2018.01.005},
+ISSN = {0016-3287},
+EISSN = {1873-6378},
+ResearcherID-Numbers = {Rainey, Stephen/ABK-2525-2022
+   Stahl, Bernd/AAK-4828-2021
+   Aicardi, Christine/JRW-2217-2023
+   },
+ORCID-Numbers = {Harris, Emma Anne/0000-0002-1224-6986
+   Rainey, Stephen/0000-0002-5540-6046
+   Aicardi, Christine/0000-0003-1112-7720},
+Unique-ID = {WOS:000443666900011},
+}
+
+@inproceedings{ WOS:001251222100104,
+Author = {Lai, Shuang and Zhang, Shaoqian and Hassan, Abual and Mushtaq, Ray Tahir},
+Book-Group-Author = {Assoc Computing Machinery},
+Title = {Analyzing Role of Artificial Intelligence in Project Management and
+   Investment Risk: A CiteSpace Insight},
+Booktitle = {2024 16TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND COMPUTING,
+   ICMLC 2024},
+Year = {2024},
+Pages = {713-719},
+Note = {16th International Conference on Machine Learning and Computing (ICMLC),
+   Shenzhen, PEOPLES R CHINA, FEB 02-05, 2024},
+Organization = {Shenzhen Univ, Natl Engn Lab Big Data Syst Comp Technol},
+Abstract = {The current research work explores the artificial intelligence and
+   sustainability impact on investment risk and project management based on
+   trend analysis from 2017 to 2022. Deakin University; the University of
+   London or other key contributors and institutions that contribute to
+   this field is identified by a rigorous analysis of one hundred nineteen
+   articles from Web of Science. In it, a considerable part of the world is
+   shown with meaningful contributions from China, Korea and the United
+   States. This research presents the changing AI phenomenon in risk
+   management for investments and especially notes that there is increasing
+   connection with sustainability. The results of this work emphasize the
+   role of AI in renovating traditional risk paradigms and suggest
+   appropriate international cooperation. The study thus not only uncovers
+   the current state of knowledge but also positions itself as a starting
+   point for future research in AI-driven investment risk management,
+   providing valuable perspectives to both science and practice.},
+DOI = {10.1145/3651671.3651776},
+ISBN = {979-8-4007-0923-4},
+ResearcherID-Numbers = {Mushtaq, Ray Tahir/ABA-5716-2020
+   Mushtaq, Ray Tahir/ABA-5716-2020
+   Hassan, Abu Al/HHN-4476-2022},
+ORCID-Numbers = {Zhang, ZHANG SHAOQIAN/0009-0007-2233-5521
+   Mushtaq, Ray Tahir/0000-0002-1233-4986
+   Lai, Shuang/0000-0002-1756-7180
+   Hassan, Abu Al/0000-0002-8284-9125
+   Mushtaq, Ray Tahir/0000-0002-1233-4986
+   },
+Unique-ID = {WOS:001251222100104},
+}
+
+@article{ WOS:001536641000031,
+Author = {Besnea, Remus-Bogdan and Jerdea, Ioan-Loreni},
+Title = {The Intersection of Project Management and Automation: A Bibliometric
+   Analysis},
+Journal = {PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON BUSINESS EXCELLENCE},
+Year = {2025},
+Volume = {19},
+Number = {1},
+Pages = {3123-3137},
+Month = {JUL 1},
+Note = {19th International Conference on Business Excellence (ICBE) - Leading
+   Change in Disruptive Times, ELECTR NETWORK, MAR 20-22, 2025},
+Abstract = {The study is a bibliometric analysis that addresses the interdependence
+   of two concepts: project management and automation. The paper presents a
+   synthesis of relevant statistics that target articles that address the
+   combination of the two concepts and includes important information, such
+   as: most relevant sources, annual scientific production, most relevant
+   authors, sources production over time and most relevant affiliations or
+   countries production over time. The research method used for conducting
+   the research is the bibliometric analysis, and the research question is
+   the following: ``What are the key research trends in the academic
+   literature at the intersection of project management and automation?{''}
+   The specialized literature is varied and is divided into two: one part
+   targets project management, while the other part addresses automation.
+   The research results reveal that interest in our research topic is
+   continuously increasing, which is observable through the increasing use
+   of artificial intelligence in project management and the automation of a
+   large part of the processes carried out in companies. At the same time,
+   the results show that there is a major increase in the use of artificial
+   intelligence, especially in countries with rapid development rates, such
+   as the USA or China. All this indicates that, over time, as technology
+   advances, the use of artificial intelligence in project management will
+   become increasingly common, easier and will contribute to increasing
+   productivity and achieving much more efficient management.},
+DOI = {10.2478/picbe-2025-0239},
+ISSN = {2502-0226},
+EISSN = {2558-9652},
+ResearcherID-Numbers = {Jerdea, Loreni/MIP-9834-2025},
+ORCID-Numbers = {Jerdea, Loreni/0009-0002-6513-9671
+   },
+Unique-ID = {WOS:001536641000031},
+}
+
+@article{ WOS:001127097400001,
+Author = {Cancer, Vesna and Tominc, Polona and Rozman, Maja},
+Title = {Multi-Criteria Measurement of AI Support to Project Management},
+Journal = {IEEE ACCESS},
+Year = {2023},
+Volume = {11},
+Pages = {142816-142828},
+Abstract = {This paper aims to measure the level of artificial intelligence (AI)
+   support to project management (PM) in selected service sector
+   activities. The exploratory factor analysis was employed based on the
+   extensive survey on AI in Slovenian companies and the multi-criteria
+   measurement with an emphasis on value functions and pairwise comparisons
+   in the analytic hierarchy process. The synthesis and performance
+   sensitivity analysis results show that in the service sector, concerning
+   all criteria, PM is with the level 0.276 best supported with AI in
+   services of professional, scientific, and technical activities, which
+   also stand out concerning the first-level goals in using AI solutions in
+   a project with the value 0.284, and in successful project implementation
+   using AI with the value 0.301. Although the lowest level of AI support
+   to PM, which is 0.220, is in services of wholesale and retail trade and
+   repair of motor vehicles and motorcycles, these services excel in
+   adopting AI technologies in a project with a value of 0.277. Services of
+   financial and insurance activities, with the level 0.257 second-ranked
+   concerning all criteria, have the highest value of 0.269 concerning the
+   first-level goal of improving the work of project leaders using AI. The
+   paper, therefore, contributes to the comparison of AI support to PM in
+   service sector activities. The results can help AI development
+   policymakers determine which activities need to be supported and which
+   should be set as an example. The presented methodological frame can
+   serve to perform measurements and benchmarking in various research
+   fields.},
+DOI = {10.1109/ACCESS.2023.3342276},
+ISSN = {2169-3536},
+Unique-ID = {WOS:001127097400001},
+}
+
+@inproceedings{ WOS:000841506900014,
+Author = {Engel, Christian and Ebel, Philipp and van Giffen, Benjamin},
+Editor = {Ahlemann, F and Schutte, R and Stieglitz, S},
+Title = {Empirically Exploring the Cause-Effect Relationships of AI
+   Characteristics, Project Management Challenges, and Organizational
+   Change},
+Booktitle = {INNOVATION THROUGH INFORMATION SYSTEMS, VOL II: A COLLECTION OF LATEST
+   RESEARCH ON TECHNOLOGY ISSUES},
+Series = {Lecture Notes in Information Systems and Organization},
+Year = {2021},
+Volume = {47},
+Pages = {166-181},
+Note = {16th International Conference on Business and Information Systems
+   Engineering (WI), Univ Duisburg Essen, GERMANY, MAR 09-11, 2021},
+Abstract = {Artificial Intelligence (AI) provides organizations with vast
+   opportunities of deploying AI for competitive advantage such as
+   improving processes, and creating new or enriched products and services.
+   However, the failure rate of projects on implementing AI in
+   organizations is still high, and prevents organizations from fully
+   seizing the potential that AI exhibits. To contribute to closing this
+   gap, we seize the unique opportunity to gain insights from five
+   organizational cases. In particular, we empirically investigate how the
+   unique characteristics of AI - i.e. experimental character, context
+   sensitivity, black box character, and learning requirements - induce
+   challenges into project management, and how these challenges are
+   addressed in organizational (socio-technical) contexts. This shall
+   provide researchers with an empirical and conceptual foundation for
+   investigating the cause-effect relationships between the characteristics
+   of AI, project management, and organizational change. Practitioners can
+   benchmark their own practices against the insights to increase the
+   success rates of future AI implementations.},
+DOI = {10.1007/978-3-030-86797-3\_12},
+ISSN = {2195-4968},
+EISSN = {2195-4976},
+ISBN = {978-3-030-86797-3; 978-3-030-86796-6},
+Unique-ID = {WOS:000841506900014},
+}
+
+@inproceedings{ WOS:001553563800049,
+Author = {Sengupta, Ramyani and Elwakil, Emad and Jiang, Yi},
+Book-Group-Author = {IEEE},
+Title = {Adoption of Artificial Intelligence in Construction: Applications and
+   Implications for Project Management},
+Booktitle = {2025 IEEE CONFERENCE ON TECHNOLOGIES FOR SUSTAINABILITY, SUSTECH},
+Series = {IEEE Conference on Technologies for Sustainability SusTech},
+Year = {2025},
+Note = {2025 Conference on Technologies for Sustainability-SUSTECH-Annual, Los
+   Angeles, CA, APR 20-23, 2025},
+Organization = {Institute of Electrical and Electronics Engineers Inc},
+Abstract = {Artificial intelligence (AI) is entering virtually every industry,
+   transforming operations and decision-making processes. Though the
+   construction sector has traditionally been slower in adopting such
+   technologies, it is now experiencing a surge in AI integration.
+   Companies are only just beginning to recognize the potential benefits of
+   AI in project management, resource allocation, risk assessment, and
+   overall operational efficiency. However, despite this trend, there
+   remains a gap in the research explicitly focusing on using AI tools
+   within the construction industry in the United States (US). This paper
+   aims to address that gap by reviewing the current relevant literature on
+   AI adoption in construction and analyzing the implementation of these
+   types of technologies by construction managers (CMs) across the country.
+   Additionally, a number of employees from US construction companies were
+   surveyed to gain further insights into how AI is currently utilized
+   within the industry, providing a comprehensive understanding of adoption
+   trends and practical applications. The analysis has shown that 60\% of
+   employees swiftly adopted AI tools for their project responsibilities.
+   The top three areas where AI applications were used most frequently in
+   the industry were found to be `data analytics and reporting', followed
+   by `machine learning models' and `AI-based project management software'.},
+DOI = {10.1109/SusTech63138.2025.11025670},
+ISSN = {2640-6829},
+EISSN = {2640-6810},
+ISBN = {979-8-3315-0432-8; 979-8-3315-0431-1},
+Unique-ID = {WOS:001553563800049},
+}
+
+@article{ WOS:000811887200009,
+Author = {Li, Yan},
+Title = {Construction Project Claim Management under the Background of Wireless
+   Communication and Artificial Intelligence},
+Journal = {WIRELESS COMMUNICATIONS \& MOBILE COMPUTING},
+Year = {2022},
+Volume = {2022},
+Month = {MAR 19},
+Abstract = {At this stage, construction projects involve more and more aspects, and
+   the market environment they face is also increasingly complex. The
+   application of wireless communication and artificial intelligence
+   technology provides convenient conditions for the establishment of
+   construction engineering claim management system. Based on this, this
+   paper conducts research on the subject of construction engineering claim
+   management under the background of wireless communication and artificial
+   intelligence. This paper first briefly introduces the classification of
+   construction engineering claims, designs the construction engineering
+   claim management system, and analyzes the relevant functional
+   requirements and functional modules of the system. In terms of grasping
+   the current situation of relevant people's cognition of construction
+   engineering claims, the research adopts the method of questionnaire
+   survey, then summarizes the existing problems according to the
+   questionnaire data, and finally combines the predesigned functional
+   modules to solve these problems. Systematic Recommendations. The survey
+   data shows that in the case of 400 concurrent users, the transaction
+   volume of the system reached 17.13T/s, and the system transaction
+   operations were all successful. These experiments demonstrate that the
+   availability and adaptability of the preset functional modules are very
+   high.},
+DOI = {10.1155/2022/6074104},
+Article-Number = {6074104},
+ISSN = {1530-8669},
+EISSN = {1530-8677},
+Unique-ID = {WOS:000811887200009},
+}
+
+@article{ WOS:000584266100006,
+Author = {Boughaba, Amina and Bouabaz, Mohamed},
+Title = {Identification and risk management related to construction projects},
+Journal = {ADVANCES IN COMPUTATIONAL DESIGN},
+Year = {2020},
+Volume = {5},
+Number = {4},
+Pages = {445-465},
+Month = {OCT},
+Abstract = {This paper presents a study conducted with the aim of developing a model
+   of tendering based on a technique of artificial intelligence by managing
+   and controlling the factors of success or failure of construction
+   projects through the evaluation of the process of invitation to tender.
+   Aiming to solve this problem, analysis of the current environment based
+   on SWOT (Strengths, Weaknesses, Opportunities, and Threats) is first
+   carried out. Analysis was evaluated through a case study of the
+   construction projects in Algeria, to bring about the internal and
+   external factors which affect the process of invitation to tender
+   related to the construction projects. This paper aims to develop a mean
+   to identify threats-opportunities and strength-weaknesses related to the
+   environment of various national construction projects, leading to the
+   decision on whether to continue the project or not. Following a SWOT
+   analysis, novel artificial intelligence models in forecasting the
+   project status are proposed. The basic principal consists in
+   interconnecting the different factors to model this phenomenon. An
+   artificial neural network model is first proposed, followed by a model
+   based on fuzzy logic. A third model resulting from the combination of
+   the two previous ones is developed as a hybrid model. A simulation study
+   is carried out to assess performance of the three models showing that
+   the hybrid model is better suited in forecasting the construction
+   project status than RNN (recurrent neural network) and FL (fuzzy logic)
+   models.},
+DOI = {10.12989/acd.2020.5.4.445},
+ISSN = {2383-8477},
+EISSN = {2466-0523},
+ResearcherID-Numbers = {Bouabaz, Mohamed/AAG-6590-2021},
+Unique-ID = {WOS:000584266100006},
+}
+
+@article{ WOS:000963834400003,
+Author = {Yu, Lai},
+Title = {Project engineering management evaluation based on GABP neural network
+   and artificial intelligence},
+Journal = {SOFT COMPUTING},
+Year = {2023},
+Volume = {27},
+Number = {10},
+Pages = {6877-6889},
+Month = {MAY},
+Abstract = {BP neural network is the most representative computational and research
+   method of current machine learning, BP neural network has gradually
+   developed into the most widely used and now the most widely used in the
+   industry with its powerful nonlinear feature function mapping computing
+   capabilities, good data induction and feature recognition computing
+   capabilities. This paper closely links the actual activities of project
+   engineering technology management with modern machine learning network
+   technology, and proposes a new type of engineering management activity
+   model based on machine-integrated GABP neural network. Based on
+   artificial intelligence technology, this paper discusses the theory of
+   analytical neural learning in depth, discusses the theory of analytical
+   neural learning in combination with genetic algorithms, and
+   systematically discusses the models commonly used in this study based on
+   theoretical foundations such as genetic algorithms. And points out the
+   defects and defects of the neural network structure itself. Good
+   generalization ability, in order to minimize the impact of subjective
+   factors on the valuation results. Although there are many management
+   software specializing in construction project engineering currently on
+   the market, the service scope and demand range of these management
+   software specializing in construction project engineering are relatively
+   narrow. For example, construction project management software can only
+   be used manage a construction project. In the actual operation process,
+   it is also found that unreasonable time arrangements often occur in
+   various links, such as personnel scheduling and material distribution of
+   engineering projects. It will not only cause a large waste of material
+   resources, but also affect the effect of labor. To this end, starting
+   from the government's desire to improve the efficiency of engineering
+   management projects, this paper designs an engineering management system
+   for general projects based on artificial intelligence technology and
+   neural networks, and after a large number of practical analysis.},
+DOI = {10.1007/s00500-023-08133-9},
+EarlyAccessDate = {APR 2023},
+ISSN = {1432-7643},
+EISSN = {1433-7479},
+Unique-ID = {WOS:000963834400003},
+}
+
+@article{ WOS:001501065900001,
+Author = {Rodriguez, Lady-Joana and Sarache-Ossa, Nicolas and Sarache, William and
+   Ospina-Fonseca, Mauricio},
+Title = {Advances of Artificial Intelligence in Organizational Project
+   Management: A Systematic Literature Review},
+Journal = {CUADERNOS DE GESTION},
+Year = {2025},
+Month = {2025 JUN 2},
+Abstract = {Organizational project management (OPM) encompasses three key domains:
+   program management, portfolio management, and project management (PM),
+   in addition to organizational enablers. Research indicates increasing
+   application of artificial intelligence (AI) technologies within OPM.
+   However, an analysis of published literature reviews on the topic
+   reveals significant advancements primarily within the PM domain, with
+   limited progress observed in program management, portfolio management,
+   and organizational enablers. Therefore, this study seeks to identify
+   progress in AI applications across all three domains and organizational
+   enablers within OPM to establish emerging trends and highlight future
+   research opportunities. A systematic literature review was conducted
+   utilizing the SCOPUS and Web of Science databases. After applying a
+   series of filters, 87 publications were selected for analysis. The study
+   identifies AI applications in four types of tasks related to OPM:
+   routine, decision-making, judgment, and problem-solving. Results
+   indicate that while application of AI technologies remains primarily
+   focused on PM, there are new advancements in program and portfolio
+   management. However, they occur mainly in operational processes;
+   strategic aspects remain largely underdeveloped. Regarding
+   organizational enablers, similar to the previously published review
+   papers, no AI applications are reported. This study identifies
+   organizational challenges and research opportunities in four main areas:
+   data collection, development of algorithms tailored to project
+   requirements, human resource management, and ethical practices.},
+DOI = {10.5295/cdg.252329ws},
+EarlyAccessDate = {JUN 2025},
+ISSN = {1131-6837},
+EISSN = {1988-2157},
+ORCID-Numbers = {Sarache, William/0000-0003-3543-4151
+   Roiguez, L Joana/0000-0001-5173-2680},
+Unique-ID = {WOS:001501065900001},
+}
+
+@article{ WOS:001447317500001,
+Author = {Alayed, Sura},
+Title = {The role of artificial intelligence in project management performance:
+   The mediating effects of competence retention and top management support},
+Journal = {JOURNAL OF PROJECT MANAGEMENT},
+Year = {2025},
+Volume = {10},
+Number = {3},
+Pages = {575-584},
+Abstract = {This study examines the impact of artificial intelligence (AI) on
+   project management performance, with a focus on the mediating roles of
+   top management support and project management competence retention. A
+   cross-sectional research design was employed, and data were collected
+   from 309 employees using a convenience sampling technique. Conducted
+   within the context of Saudi Arabia's manufacturing sector, the research
+   aligns with the nation's Vision 2030 goals of economic diversification
+   and technological advancement. Data analysis was performed using
+   structural equation modeling (SEM) to examine the relationships between
+   the constructs. The results reveal that AI has a significant direct
+   impact on both top management support (beta = 0.865) and competence
+   retention (beta = 0.827), while also indirectly enhancing project
+   performance through these mediating factors (beta = 0.666 and beta =
+   0.471, respectively). Additionally, top management support (beta =
+   0.771) and competence retention (beta = 0.507) directly influence
+   project performance. The findings highlight the critical role of AI in
+   improving decision-making, resource allocation, and skill retention,
+   ultimately leading to better project outcomes. The findings have
+   significant implications for organizations and policymakers.
+   Practically, organizations in Saudi Arabia's manufacturing sector can
+   leverage AI to enhance project outcomes by improving decision-making,
+   resource allocation, and skill retention.},
+DOI = {10.5267/j.jpm.2025.3.005},
+EarlyAccessDate = {MAR 2025},
+ISSN = {2371-8366},
+EISSN = {2371-8374},
+Unique-ID = {WOS:001447317500001},
+}
+
+@article{ WOS:000927636700013,
+Author = {Aguirre Manzon, Marlys Nuriseka},
+Title = {Effects of Industry 4.0 on project management},
+Journal = {VISION GERENCIAL},
+Year = {2022},
+Volume = {21},
+Number = {2},
+Pages = {352-362},
+Month = {JUL-DEC},
+Abstract = {Introduction: With globalization, organizations face many challenges
+   every day to cope with the fast and competitive world market, betting on
+   innovation or the most disruptive techniques that guarantee the success
+   of their projects. Objectives: Therefore, this research seeks to show
+   the effects of the current industrial revolution or industry 4.0 in
+   traditional project management. Methodology: Understanding that
+   evolutionary periods such as previous industrial revolutions have been
+   drivers of important global changes, among many aspects, the
+   technological advances of industry 4.0 are predominant in project
+   management, the contributions of those who implement these technologies
+   and the experience of project managers through which it is possible to
+   discern the impact of Industry 4.0 on project management, identify
+   future scenarios and establish recommendations. Results: This
+   qualitative research confirms hypotheses that point to changes in
+   project management hand in hand with Artificial Intelligence and other
+   Industry 4.0 technologies capable of reducing delivery times, minimizing
+   risks, and providing its key benefits in terms of flexibility, costs,
+   efficiency, quality, and competitive advantages (Masood and Sonntag,
+   2020). Conclusions: Through the developed research, a scenario of
+   technological challenges is noticed where the project manager will have
+   to adapt technology and live in a more intelligent digital environment
+   to survive the coming wave of changes.},
+ISSN = {2477-9547},
+EISSN = {1317-8822},
+Unique-ID = {WOS:000927636700013},
+}
+
+@inproceedings{ WOS:001292938200034,
+Author = {Huang, Peipei and Ou, Xiaolin},
+Book-Group-Author = {Assoc Computing Machinery},
+Title = {Application of Artificial Intelligence Technology in Risk Assessment and
+   Management of Pile Foundation Engineering of Offshore Wind Power
+   Projects},
+Booktitle = {PROCEEDINGS OF 2024 INTERNATIONAL CONFERENCE ON COMPUTER AND MULTIMEDIA
+   TECHNOLOGY, ICCMT 2024},
+Year = {2024},
+Pages = {200-205},
+Note = {International Conference on Computer and Multimedia Technology (ICCMT),
+   Sanming, PEOPLES R CHINA, MAR 24-26, 2024},
+Organization = {ACM},
+Abstract = {In the context of the continuous progress of today's society, the level
+   of science and technology is also developing rapidly. In particular, the
+   extensive application of information technology such as artificial
+   intelligence, big data and cloud computing has penetrated into all walks
+   of life. In the process of intelligent building construction, computer
+   network system plays a crucial role. Artificial intelligence can analyze
+   the risk trends and patterns of wind power project pile foundation
+   engineering by processing a large amount of historical risk data, and
+   predict possible future risks. This helps the project team to develop
+   corresponding risk management strategies and preventive measures. The
+   risk assessment and management of pile foundation project of wind power
+   project is of great significance to enhance the competitiveness of
+   construction enterprises. Based on the analysis and research of relevant
+   literatures at home and abroad and combined with artificial intelligence
+   algorithm, this paper designs a risk assessment system for offshore wind
+   power projects, so as to effectively reduce the risk incidence of pile
+   foundation projects of wind power projects and improve the economic
+   benefits of enterprises. Then, the accuracy performance of the system is
+   tested. The test results show that as the fuzzy output value continues
+   to rise from 0.2 to 1, the accuracy score also shows an increasing
+   trend, indicating that the accuracy of the risk prediction system has
+   improved. Based on this data, the performance of the risk prediction
+   system can be evaluated and the prediction algorithm or model can be
+   further improved, thus increasing the level of accuracy.},
+DOI = {10.1145/3675249.3675286},
+ISBN = {979-8-4007-1826-7},
+Unique-ID = {WOS:001292938200034},
+}
+
+@article{ WOS:001603271500001,
+Author = {Kogel, Dominik and Meile, Sandro and Canos-Daros, Lourdes},
+Title = {Who's Steering Whom and in What Direction? An Experiment on AI Versus
+   Top Management Decision-Making in Projects},
+Journal = {PROJECT MANAGEMENT JOURNAL},
+Year = {2025},
+Month = {2025 OCT 28},
+Abstract = {Employing classical and behavioral decision theories, this article
+   explores, based on decision cases, how decisions by AI and humans might
+   differ in the context of top management decision-making in projects.
+   Based on a phenomenological analysis of 37 top managers' responses and
+   corresponding answers provided by artificial intelligence (AI), findings
+   indicate that, as project decision-making becomes hybrid, systematic
+   differences in important dimensions have the potential to steer projects
+   into different directions. Aimed at provoking thought, this pioneering
+   article proposes a conceptual framework for project decision-making in
+   the age of generative AI (GenAI) and highlights theoretical and
+   practical implications of carelessly delegating big decisions to AI.},
+DOI = {10.1177/87569728251379338},
+EarlyAccessDate = {OCT 2025},
+ISSN = {8756-9728},
+EISSN = {1938-9507},
+ResearcherID-Numbers = {Canós-Darós, Lourdes/K-6570-2017},
+Unique-ID = {WOS:001603271500001},
+}
+
+@article{ WOS:000936208300001,
+Author = {Rojas, Juan Jose Santillan and Suazo, Nicke Dennis Cabezas and Monago,
+   Johan Javier Chamorro and Fernandez, Angel Narcizo Aquino},
+Title = {Artificial intelligence for the management of water projects and the
+   management of water re- sources: A bibliographical analysis},
+Journal = {JOURNAL OF PROJECT MANAGEMENT},
+Year = {2023},
+Volume = {8},
+Number = {3},
+Pages = {191-198},
+Month = {JUL},
+Abstract = {This bibliographical review gives us a clear and summarized analysis of
+   the management tools for a water infrastructure construction project
+   and, a tool that allows the management of water resources through the
+   application of everything analyzed and compiled in scientific articles
+   obtained from the Scopus database and after that it was analyzed using
+   the VOSviewer tool, which has the complexity of analyzing a large amount
+   of data. This analysis was carried out from the appearance of the first
+   related investigations until the year 2023, analysis graphs were
+   obtained from representative levels of the words ``artificial
+   intelligence{''}, ``project management{''} of ``construction{''} and
+   ``water{''} resource with greater interest in the analysis. The results
+   obtained allowed us to understand the great variety of technological
+   tools that are available today to be able to manage the construction of
+   a project through artificial intelligence and its components that work
+   together, likewise the application of these tools is carried out by
+   countries as well as the United States. The United States and China are
+   the ones that represent the greatest interest in these investigations,
+   however this contribution is minimal to be able to generate effective
+   solutions since each project presents its particular characteristics
+   that technology has to adapt to. The future of these projects was also
+   analyzed, such as the management of water resources through intelligent
+   technologies that allow the preservation, care and maintenance of water
+   resources, in addition to this, it is emphasized that worldwide there
+   are already problems of droughts, lack of water resources and shortages
+   of water in some countries. This research has the purpose of an overview
+   for decision-making in the execution of the project at the water level
+   and after the management of the water resource, it is important to apply
+   these tools for their different advantages and carry it out to
+   large-scale works in Peru subsidized by the Peruvian state since they
+   are the most responsible for ensuring the care, maintenance and
+   preservation of water resources.(c) 2023 Growing Science Ltd. All rights
+   reserved.},
+DOI = {10.5267/j.jpm.2023.2.002},
+EarlyAccessDate = {FEB 2023},
+ISSN = {2371-8366},
+EISSN = {2371-8374},
+ResearcherID-Numbers = {Santillan Rojas, Juan Jose/JXN-1558-2024},
+Unique-ID = {WOS:000936208300001},
+}
+
+@inproceedings{ WOS:000166049100136,
+Author = {Montani, S and Bellazzi, R and Riva, A and Larizza, C and Portinale, L
+   and Stefanelli, M},
+Editor = {Horn, W},
+Title = {Artificial intelligence techniques for diabetes management: The T-IDDM
+   project},
+Booktitle = {ECAI 2000: 14TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE,
+   PROCEEDINGS},
+Series = {Frontiers in Artificial Intelligence and Applications},
+Year = {2000},
+Volume = {54},
+Pages = {716-720},
+Note = {14th European Conference on Artificial Intelligence, BERLIN, GERMANY,
+   AUG 20-25, 2000},
+Organization = {European Coordinating Comm Artificial Intelligence; German Informat Soc;
+   Humboldt Univ},
+Abstract = {We present a successful application of Artificial Intelligence (AI)
+   methodologies in the context of a telemedicine service for diabetic
+   patients management, developed within the EU-funded T-IDDM project. The
+   system architecture is distributed, and composed by a Patient Unit and
+   by a Medical Unit, connected through a telecommunication link. Several
+   AI methods have been exploited to implement the T-IDDM functionality.
+   The data base relies on an explicit representation of the domain
+   ontology. Temporal Abstractions and other Intelligent Data Analysis
+   techniques are used to analyse the patient's monitoring data; the Case
+   Based Reasoning (CBR) methodology is applied to perform the Knowledge
+   Management task. Finally, CBR is integrated with Rule Based Reasoning to
+   provide physicians with a multi-modal reasoning decision support tool.
+   The T-IDDM service is being tested through a small on field trial in
+   Pavia; the first results, though preliminary, seem to substantiate the
+   hypothesis that the use of an AI-based telemedicine system could present
+   an advantage in the management of type 1 diabetic patients, leading to a
+   more tight control of the patients' metabolic situation, in a
+   cost-effective way.},
+ISSN = {0922-6389},
+EISSN = {1879-8314},
+ISBN = {1-58603-013-2},
+ResearcherID-Numbers = {Bellazzi, Riccardo/J-6432-2018
+   Montani, Stefania/AAC-4327-2022},
+Unique-ID = {WOS:000166049100136},
+}
+
+@article{ WOS:001455154000001,
+Author = {Koudriachov, Catarina and Tam, Carlos and Aparicio, Manuela},
+Title = {Success with Agile Project Management: Looking back and into the future},
+Journal = {JOURNAL OF SYSTEMS AND SOFTWARE},
+Year = {2025},
+Volume = {226},
+Month = {AUG},
+Abstract = {We show what the influential factors and practical strategies are that
+   contribute to agile project management success. The research model
+   comprises three people-related factors (personal characteristics, team
+   capability, and customer involvement), three technological factors
+   (gamification, artificial intelligence, and marketing intelligence), and
+   one dependent variable (agile project management success). Based on 143
+   questionnaire responses, our findings reaffirm the positive impact of
+   personal characteristics and customer involvement while challenging the
+   roles of gamification and team capability, suggesting that their effects
+   are more contextdependent than previously thought. Our findings also
+   highlight that agile project management success depends on the interplay
+   between remote work and team capability, with strong team skills being
+   highly important for agile methodologies, especially in traditional
+   office settings.},
+DOI = {10.1016/j.jss.2025.112428},
+EarlyAccessDate = {MAR 2025},
+Article-Number = {112428},
+ISSN = {0164-1212},
+EISSN = {1873-1228},
+ResearcherID-Numbers = {Aparicio, Manuela/C-1835-2014},
+ORCID-Numbers = {Aparicio, Manuela/0000-0003-4261-0344},
+Unique-ID = {WOS:001455154000001},
+}
+
+@article{ WOS:001443128600001,
+Author = {Badhon, Bodrunnessa and Chakrabortty, Ripon K. and Anavatti, Sreenatha
+   G. and Vanhoucke, Mario},
+Title = {A Multi-Module Explainable Artificial Intelligence Framework for Project
+   Risk Management: Enhancing Transparency in Decision-making},
+Journal = {ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE},
+Year = {2025},
+Volume = {148},
+Month = {MAY 15},
+Abstract = {The remarkable advancements in machine learning (ML) have led to its
+   extensive adoption in Project Risk Management (PRM), leveraging its
+   powerful predictive capabilities and data-driven insights that support
+   proactive decision-making. Nevertheless, the ``black-box{''} nature of
+   ML models obscures the reasoning behind predictions, undermining
+   transparency and trust. To address this, existing explainable artificial
+   intelligence (XAI) techniques, such as Local Interpretable
+   Model-agnostic Explanations (LIME), Global Priors-based LIME (G-LIME),
+   and SHapley Additive exPlanations (SHAP), have been applied to interpret
+   black-box models. Yet, they face considerable limitations in PRM,
+   including their inability to model cascading effects and multi-level
+   dependencies among risk factors, suffering from inconsistencies due to
+   random sampling, and failure to capture non-linear interactions in
+   high-dimensional risk data. In response to these shortcomings, this
+   paper proposes the Multi-Module eXplainable Artificial Intelligence
+   framework for Project Risk Management (MMXAI-PRM), a novel approach
+   designed to address the unique demands of PRM. The framework consists of
+   three modules: the Risk Relationship Insight Module (RRIM), which models
+   risk dependencies using a Knowledge Graph (KG); the Risk Factor
+   Influence Analysis Module (RFIAM), which introduces a Conditional
+   Tabular Generative Adversarial Network-aided Local Interpretable
+   Model-agnostic Explanations using Kernel Ridge Regression (CTGAN-LIMEKR)
+   to ensure explanation consistency and handle non-linearity; and the
+   Visualization and Interpretation Module (VIM), which synthesizes these
+   insights into an interpretable, chain-based representation. Extensive
+   experiments demonstrate that MMXAI-PRM delivers more consistent, stable,
+   and accurate explanations than existing XAI methods. By improving
+   interpretability, it enhances trust in AI-driven risk predictions and
+   equips project managers with actionable insights, advancing
+   decision-making in PRM.},
+DOI = {10.1016/j.engappai.2025.110427},
+EarlyAccessDate = {MAR 2025},
+Article-Number = {110427},
+ISSN = {0952-1976},
+EISSN = {1873-6769},
+ResearcherID-Numbers = {Vanhoucke, Mario/D-8647-2015
+   anavatti, sreenatha/F-3674-2016
+   Chakrabortty, Ripon/ABA-6480-2020},
+ORCID-Numbers = {Badhon, Bounnessa/0000-0002-5485-5552
+   Vanhoucke, Mario/0000-0001-6702-3563
+   Chakrabortty, Ripon/0000-0002-7373-0149},
+Unique-ID = {WOS:001443128600001},
+}
+
+@article{ WOS:000370279600046,
+Author = {Xu, Feng and Lin, Shao-Pei},
+Title = {Theoretical framework of Fuzzy-AI model in quantitative project
+   management},
+Journal = {JOURNAL OF INTELLIGENT \& FUZZY SYSTEMS},
+Year = {2016},
+Volume = {30},
+Number = {1},
+Pages = {509-521},
+Abstract = {Management issue incorporates a huge amount of fuzzy information
+   processing, that is exactly representing the essentials of human
+   intelligence in reasoning for managing problems. This paper
+   distinguishes the qualitative (empirical) management versus the
+   quantitative (digital) management and focuses the studies of the latter
+   one and verifies the possibility and necessity of adopting quantitative
+   project management in many real world problems. The theoretical
+   arguments of ``Fuzzy-AI model{''} are presented for dealing with the
+   quantization of uncertain management events, which simulates the
+   intelligence of human being by AI (Artificial Intelligence) technology
+   and quantizes the management solution by fuzzy approach. Several
+   practical examples are presented in this paper as the evidence of the
+   applicability of this model in the project management issues, which
+   provides digital support to decision maker in the management. Finally,
+   the theoretical framework of applying this model in different stages of
+   project management is presented for the purpose of calibrating its
+   application scope.},
+DOI = {10.3233/IFS-151776},
+ISSN = {1064-1246},
+EISSN = {1875-8967},
+Unique-ID = {WOS:000370279600046},
+}
+
+@article{ WOS:001429609600001,
+Author = {Adamantiadou, Dorothea S. and Tsironis, Loukas},
+Title = {Leveraging Artificial Intelligence in Project Management: A Systematic
+   Review of Applications, Challenges, and Future Directions},
+Journal = {COMPUTERS},
+Year = {2025},
+Volume = {14},
+Number = {2},
+Month = {FEB},
+Abstract = {This article presents a systematic literature review exploring the
+   integration of Artificial Intelligence (AI) methodologies in project
+   management (PM). Key applications include cost estimation, duration
+   forecasting, and risk assessment, which are critical factors for project
+   success. This review synthesizes findings from 97 peer-reviewed studies
+   published between 2011 and 2024, using the PRISMA methodology to ensure
+   rigor and transparency. AI techniques such as machine learning, deep
+   learning, and hybrid models have exhibited their potential to enhance PM
+   techniques across projects' phases, including planning, execution, and
+   monitoring. Decision trees are created to represent the application of
+   AI methodologies in various PM stages and tasks to facilitate
+   understanding and real-world implementation. Among these are hybrid AI
+   models that enhance risk assessment, duration forecasting, and cost
+   estimation, as well as categorization based on project phases to
+   optimize AI integration. Despite these advancements, there are still
+   gaps in addressing dynamic project environments, validating AI models
+   with real-world data, and expanding research into underexplored phases
+   like project closure.},
+DOI = {10.3390/computers14020066},
+Article-Number = {66},
+ISSN = {2073-431X},
+ORCID-Numbers = {Adamantiadou, Dorothea S/0009-0006-4836-5246
+   Tsironis, Loukas K/0000-0002-9107-5969},
+Unique-ID = {WOS:001429609600001},
+}
+
+@article{ WOS:000773986600001,
+Author = {de Oliveira, Marco Aurelio and Pacheco, Antonio Schalata and Futami,
+   Andre Hideto and Oliveira Dalla Valentina, Luiz Veriano and Flesch,
+   Carlos Alberto},
+Title = {Self-organizing maps and Bayesian networks in organizational modelling:
+   A case study in innovation projects management},
+Journal = {SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE},
+Year = {2023},
+Volume = {40},
+Number = {1},
+Pages = {61-87},
+Month = {JAN},
+DOI = {10.1002/sres.2836},
+EarlyAccessDate = {MAR 2022},
+ISSN = {1092-7026},
+EISSN = {1099-1743},
+ResearcherID-Numbers = {Pacheco, Antonio/ABH-5770-2020
+   DE OLIVEIRA, MARCO/AAO-5864-2020
+   },
+ORCID-Numbers = {Schalata Pacheco, Antonio Luiz/0000-0002-4127-2446
+   DE OLIVEIRA, MARCO AURÉLIO/0000-0002-3299-7453},
+Unique-ID = {WOS:000773986600001},
+}
+
+@article{ WOS:001317801100001,
+Author = {Kiani, Ataullah},
+Title = {Artificial intelligence in entrepreneurial project management: a review,
+   framework and research agenda},
+Journal = {INTERNATIONAL JOURNAL OF MANAGING PROJECTS IN BUSINESS},
+Year = {2025},
+Volume = {18},
+Number = {4-5, SI},
+Pages = {708-720},
+Month = {NOV 11},
+Abstract = {PurposeThis paper delves into the transformative impact of artificial
+   intelligence (AI) across diverse sectors, notably project management. It
+   examines the potential of AI to revolutionize project management
+   processes within entrepreneurial ventures, where agility, efficiency and
+   innovation reign supreme.Design/methodology/approachThrough a
+   comprehensive analysis, this study navigates the intersection of AI and
+   entrepreneurial project management. It meticulously dissects the
+   opportunities AI presents, the hurdles it introduces and the optimal
+   strategies for harnessing its capabilities effectively. Drawing insights
+   from complexity theory, a framework is crafted to delineate AI's
+   capacity to substitute human involvement, elucidating key considerations
+   for transitioning to a digitally-driven paradigm in entrepreneurial
+   project management.FindingsThe study underscores AI's potential to
+   augment project management processes significantly, particularly in
+   fostering agility and innovation. However, challenges persist,
+   necessitating adept navigation to maximize AI's benefits. The framework
+   delineates the extent to which AI can supplant human roles, offering
+   crucial insights into the digital transformation of entrepreneurial
+   project management.Practical implicationsPractitioners are equipped with
+   valuable guidance on leveraging AI effectively, enhancing organizational
+   agility and performance. Understanding the implications of AI adoption
+   fosters informed decision-making in the realm of project
+   management.Social implicationsThe integration of AI in entrepreneurial
+   project management signifies broader societal shifts toward
+   digitalization and automation. Insights from this study contribute to
+   navigating these transformations, fostering greater resilience and
+   adaptability in entrepreneurial endeavors.Originality/valueThis study
+   offers a novel perspective on the intersection of AI and entrepreneurial
+   project management, shedding light on unexplored terrain. By drawing on
+   complexity theory, it advances a nuanced understanding of AI's
+   implications, paving the way for future research avenues in this dynamic
+   field.},
+DOI = {10.1108/IJMPB-03-2024-0068},
+EarlyAccessDate = {SEP 2024},
+ISSN = {1753-8378},
+EISSN = {1753-8386},
+ResearcherID-Numbers = {Kiani, Ataullah/GZM-7364-2022
+   },
+ORCID-Numbers = {Kiani, Ataullah/0000-0003-2529-3105},
+Unique-ID = {WOS:001317801100001},
+}
